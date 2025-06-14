@@ -1,0 +1,56 @@
+2025-06-14 21:15:49,562 - INFO - Connected to SQL Server.
+2025-06-14 21:15:49,580 - INFO - Connected to MongoDB.
+2025-06-14 21:15:49,662 - INFO - Inserted klient K101 with contracts into MongoDB.
+2025-06-14 21:15:49,668 - INFO - Inserted klient K111 with contracts into MongoDB.
+2025-06-14 21:15:49,672 - INFO - Inserted klient K115 with contracts into MongoDB.
+2025-06-14 21:15:49,676 - INFO - Inserted klient K201 with contracts into MongoDB.
+2025-06-14 21:15:49,680 - INFO - Inserted klient K202 with contracts into MongoDB.
+2025-06-14 21:15:49,685 - INFO - Inserted klient K203 with contracts into MongoDB.
+2025-06-14 21:15:49,690 - INFO - Inserted klient K204 with contracts into MongoDB.
+2025-06-14 21:15:49,698 - INFO - Inserted klient K205 with contracts into MongoDB.
+2025-06-14 21:15:49,703 - INFO - Inserted klient K206 with contracts into MongoDB.
+2025-06-14 21:15:49,709 - INFO - Inserted klient K207 with contracts into MongoDB.
+2025-06-14 21:15:49,714 - INFO - Inserted klient K208 with contracts into MongoDB.
+2025-06-14 21:15:49,718 - INFO - Inserted klient K209 with contracts into MongoDB.
+2025-06-14 21:15:49,724 - INFO - Inserted klient K210 with contracts into MongoDB.
+2025-06-14 21:15:49,729 - INFO - Inserted klient K211 with contracts into MongoDB.
+2025-06-14 21:15:49,733 - INFO - Inserted klient K212 with contracts into MongoDB.
+2025-06-14 21:15:49,739 - INFO - Inserted klient K213 with contracts into MongoDB.
+2025-06-14 21:15:49,746 - INFO - Inserted klient K214 with contracts into MongoDB.
+2025-06-14 21:15:49,751 - INFO - Inserted klient K215 with contracts into MongoDB.
+2025-06-14 21:15:49,755 - INFO - Inserted klient K354 with contracts into MongoDB.
+2025-06-14 21:15:49,761 - INFO - Inserted klient K362 with contracts into MongoDB.
+2025-06-14 21:15:49,767 - INFO - Inserted klient K385 with contracts into MongoDB.
+2025-06-14 21:15:49,773 - INFO - Inserted klient K574 with contracts into MongoDB.
+2025-06-14 21:15:49,773 - INFO - Migration finished.
+2025-06-14 21:15:49,775 - INFO - SQL Server connection closed.
+2025-06-14 21:19:57,089 - ERROR - Migration failed: ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'ERAS-PROBOOK\\Admin\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "IT-Company" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'ERAS-PROBOOK\\Admin\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "IT-Company" requested by the login. The login failed. (4060)')
+2025-06-14 21:20:06,665 - ERROR - Migration failed: ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'ERAS-PROBOOK\\Admin\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "IT_Company" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'ERAS-PROBOOK\\Admin\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "IT_Company" requested by the login. The login failed. (4060)')
+2025-06-14 21:20:20,426 - ERROR - Migration failed: ('28000', '[28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'ERAS-PROBOOK\\Admin\'. (18456) (SQLDriverConnect); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "ITCompany1" requested by the login. The login failed. (4060); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Login failed for user \'ERAS-PROBOOK\\Admin\'. (18456); [28000] [Microsoft][ODBC Driver 17 for SQL Server][SQL Server]Cannot open database "ITCompany1" requested by the login. The login failed. (4060)')
+2025-06-14 21:21:20,877 - INFO - Connected to SQL Server.
+2025-06-14 21:21:20,880 - INFO - Connected to MongoDB.
+2025-06-14 21:21:20,956 - INFO - Inserted klient K101 with contracts into MongoDB.
+2025-06-14 21:21:20,959 - INFO - Inserted klient K111 with contracts into MongoDB.
+2025-06-14 21:21:20,962 - INFO - Inserted klient K115 with contracts into MongoDB.
+2025-06-14 21:21:20,969 - INFO - Inserted klient K201 with contracts into MongoDB.
+2025-06-14 21:21:20,972 - INFO - Inserted klient K202 with contracts into MongoDB.
+2025-06-14 21:21:20,975 - INFO - Inserted klient K203 with contracts into MongoDB.
+2025-06-14 21:21:20,977 - INFO - Inserted klient K204 with contracts into MongoDB.
+2025-06-14 21:21:20,980 - INFO - Inserted klient K205 with contracts into MongoDB.
+2025-06-14 21:21:20,984 - INFO - Inserted klient K206 with contracts into MongoDB.
+2025-06-14 21:21:20,988 - INFO - Inserted klient K207 with contracts into MongoDB.
+2025-06-14 21:21:20,992 - INFO - Inserted klient K208 with contracts into MongoDB.
+2025-06-14 21:21:20,996 - INFO - Inserted klient K209 with contracts into MongoDB.
+2025-06-14 21:21:20,999 - INFO - Inserted klient K210 with contracts into MongoDB.
+2025-06-14 21:21:21,002 - INFO - Inserted klient K211 with contracts into MongoDB.
+2025-06-14 21:21:21,004 - INFO - Inserted klient K212 with contracts into MongoDB.
+2025-06-14 21:21:21,006 - INFO - Inserted klient K213 with contracts into MongoDB.
+2025-06-14 21:21:21,009 - INFO - Inserted klient K214 with contracts into MongoDB.
+2025-06-14 21:21:21,012 - INFO - Inserted klient K215 with contracts into MongoDB.
+2025-06-14 21:21:21,015 - INFO - Inserted klient K354 with contracts into MongoDB.
+2025-06-14 21:21:21,017 - INFO - Inserted klient K362 with contracts into MongoDB.
+2025-06-14 21:21:21,019 - INFO - Inserted klient K385 with contracts into MongoDB.
+2025-06-14 21:21:21,021 - INFO - Inserted klient K574 with contracts into MongoDB.
+2025-06-14 21:21:21,021 - INFO - Migration finished.
+2025-06-14 21:21:21,022 - INFO - SQL Server connection closed.
+2025-06-14 21:22:14,907 - INFO - Migration completed successfully.
